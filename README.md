@@ -6,7 +6,7 @@
 ### <div align="center">I'm Flavie, an engineer student 👨‍💻 I will be graduating in 2025 🚀</div>  
   
 
-- 🌱 I’m currently learning C++ and Machine Learning  
+- 🌱 I’m currently learning Machine Learning.
   
 
 <br/>  
